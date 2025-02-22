@@ -103,7 +103,7 @@ app.post("/logexp", async (req, res) => {
 
 })
 
-const listener = app.listen(3000, () => {
+const listener = app.listen(port, () => {
     console.log("Your app is listening on port " + listener.address().port);
 });
 
