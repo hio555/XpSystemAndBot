@@ -47,7 +47,7 @@ Logging & Security – Prevents abuse by tracking all XP transactions and rank c
 The repo at a glance:
 - Node.js was deployed using [fly.io](https://fly.io)
 - Lua code utilizes rojo, knit, profilestore, etc...
-- There is a place file included in the Roblox directory which includes the GUI component I built for this task
+- There is a [place file](Roblox/demo-world.rbxl) called demo-world.rbxl included in the Roblox directory which includes the GUI component I built for this task
 
 ### IMPORTANT
 
