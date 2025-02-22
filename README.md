@@ -1,6 +1,6 @@
 # XpSystemAndBot
  
-Developed by [@hio555](https://www.roblox.com/users/9095598/profile) for [@Renewed](https://www.roblox.com/users/10205074/profile?friendshipSourceType=PlayerSearch) who unfortunately decided to charge back payment for this software. I am open-sourcing it for anyone to use or learn from. The chargeback has been [independently verified](https://www.reddit.com/r/RobloxDevelopers/comments/1igsewm/seeking_skilled_roblox_developer_for_automated/) by the r/robloxgamedev/ mod team.
+Developed by [@hio555](https://www.roblox.com/users/9095598/profile) for [@Renewed](https://www.roblox.com/users/10205074/profile?friendshipSourceType=PlayerSearch) who unfortunately decided to charge back payment for this software. Due to this, I am open-sourcing it for anyone to use or learn from. The chargeback has been [independently verified](https://www.reddit.com/r/RobloxDevelopers/comments/1igsewm/seeking_skilled_roblox_developer_for_automated/) by the r/robloxgamedev/ mod team.
 
 This program fulfills the following requirements, provided by @Renewed: 
 
@@ -44,7 +44,7 @@ Real-Time Promotions – Players rank up as soon as they meet the XP requirement
 Logging & Security – Prevents abuse by tracking all XP transactions and rank changes.
 
 ```
-The repo at a glance:
+### The repo at a glance:
 - Node.js was deployed using [fly.io](https://fly.io)
 - Lua code utilizes rojo, knit, profilestore, etc...
 - There is a [place file](Roblox/demo-world.rbxl) called demo-world.rbxl included in the Roblox directory which includes the GUI component I built for this task
