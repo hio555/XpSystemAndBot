@@ -19,8 +19,6 @@ flyctl secrets set VAR=VALUE
 
 where VAR is the name of the variable in the .env file and VALUE is the value of that variable
 
-***NOTE: when updating the ROBLOX bot cookie in flyctl, remove "_|WARNING:-DO-NOT-SHARE-THIS.--Sharing-this-will-allow-someone-to-log-in-as-you-and-to-steal-your-ROBUX-and-items.|_" from the start of it.
-
 e.g. flyctl secrets set ROBLOX=abcdefg 
 
 You will need to update the roblox bot cookie if the bot account gets logged out
